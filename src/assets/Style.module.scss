@@ -1,0 +1,10 @@
+.form {
+  .item {}
+}
+
+.builder {}
+
+.app {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
